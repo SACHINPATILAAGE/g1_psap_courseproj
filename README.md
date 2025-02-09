@@ -78,11 +78,11 @@ When entering your password during sign-in or registration, the input will be ma
   - Handles the main menu loop and coordinates between authentication and transaction modules.
   - Implements utility functions for input handling, screen clearing, color printing, and menu display.
 
-- **Authentication Module Developer**: (Sachin Aage)
-  - Responsible for `auth.c/h`.
-  - Implements user authentication functions: sign-in, registration, and user verification.
-  - Manages file I/O for storing user credentials in CSV format.
-  - Ensures input validation and security measures.
+- **Documentation and Testing Specialist**: (Sachin Aage)
+  - Ensures comprehensive documentation of the project.
+  - Writes and maintains the README.md file.
+  - Develops test cases for all modules.
+  - Conducts thorough testing to ensure the application is bug-free and meets requirements.
 
 - **Transaction Management Developer**: (Sujal Shahane)
   - Responsible for `transactions.c/h`.
@@ -102,8 +102,8 @@ When entering your password during sign-in or registration, the input will be ma
   - Ensures visual feedback throughout the application.
   - Works with the Project Lead to integrate color printing in the main menu and utility functions.
 
-- **Documentation and Testing Specialist**: (Manav Sharma)
-  - Ensures comprehensive documentation of the project.
-  - Writes and maintains the README.md file.
-  - Develops test cases for all modules.
-  - Conducts thorough testing to ensure the application is bug-free and meets requirements.
+- **Authentication Module Developer**: (Manav Sharma)
+  - Responsible for `auth.c/h`.
+  - Implements user authentication functions: sign-in, registration, and user verification.
+  - Manages file I/O for storing user credentials in CSV format.
+  - Ensures input validation and security measures.
